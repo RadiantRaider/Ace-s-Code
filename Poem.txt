@@ -6,3 +6,4 @@ red
 indigo
 yellow
 green
+limbo
